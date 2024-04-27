@@ -1,0 +1,9 @@
+Names,Scores
+Leonardo DaVinci,89
+Isaac Newton,70
+Galileo Galilei,93
+James Watt,99
+Walter Raleigh,85
+Thomas Edison,68
+Gottfried Leibniz,99
+Nikola Tesla,82
